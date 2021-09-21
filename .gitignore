@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+*.java
+src/main/java/com/rahul/springcloud/security/config/WebSecurityConfig.java
+src/main/java/com/rahul/springcloud/security/config/WebSecurityConfig.java
+*.java
